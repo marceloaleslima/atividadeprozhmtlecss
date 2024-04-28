@@ -87,3 +87,7 @@ margin: 10px;
     width: 20px;
     font-size: 20px;
 }
+nav a{
+    text-align: center;
+    color: #adc178;
+}
